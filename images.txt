@@ -1,6 +1,3 @@
-
-#支持私库
-
 #支持指定架构，把想要拉的镜像输过来就ok
 #--platform=linux/arm64 xiaoyaliu/alist
 docker pull osrf/ros:noetic-desktop-full
